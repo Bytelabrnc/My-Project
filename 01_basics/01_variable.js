@@ -3,7 +3,7 @@ let accountemail = "sujit@gmail.com"
 var accountpass = "12345"
 accountcity = "Ranchi"
 
-// account_id = 2 // not Allowed
+// accountid = 2 // not Allowed
 
 // console.log(accountid);
 /* 
