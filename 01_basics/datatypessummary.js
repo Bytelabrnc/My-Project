@@ -13,7 +13,7 @@
 
 // console.log(id === anotherId);
 
-//const bigNumber = 34954809853405458288n
+// const bigNumber = 34954809853405458288n
 
 // Reference (Non primitive)
 
@@ -32,29 +32,29 @@ const myfunction = function(){
   
 }
 
-// console.log(typeof bigNumber);
+console.log(typeof bigNumber);
 
 
 //**************************
 
 //stack (primitive), heap(Non-primitive)
 
-let myyoutubename = "examatlasdotcom"
-let anothername = myyoutubename
-anothername = "chaiaurcode"
+// let myyoutubename = "examatlasdotcom"
+// let anothername = myyoutubename
+// anothername = "chaiaurcode"
 
-console.log(myyoutubename);
-console.log(anothername);
+// console.log(myyoutubename);
+// console.log(anothername);
 
 
-let userOne = {
-    email: "user@gmail.com",
-    upi: "user@upi"
-}
+// let userOne = {
+//     email: "user@gmail.com",
+//     upi: "user@upi"
+// }
 
-let userTwo = userOne
+// let userTwo = userOne
 
-userTwo.email = "sujit@google.com"
+// userTwo.email = "sujit@google.com"
 
-console.log(userOne.email);
-console.log(userTwo.email);
+// console.log(userOne.email);
+// console.log(userTwo.email);
